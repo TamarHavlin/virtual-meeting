@@ -1,0 +1,27 @@
+.timer{
+    margin-right:10px;
+    position:absolute;
+    left: 0;
+    width:12%;
+    justify-content: space-between !important;
+    margin-left: 5%;
+    height: 10%;
+}
+.displayCenter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.buttonLive{
+    background-color: red !important;
+    height: 60% !important;
+}
+.meetingButtonsWrapper{
+    font-size: calc(10px + 2vmin);
+    width: 30%;
+    justify-content: space-between;
+    display: flex;
+}
+.meetingButton{
+    background-color: #323842 !important;
+}

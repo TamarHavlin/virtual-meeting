@@ -1,0 +1,21 @@
+.record{
+    width: 30%;
+    min-height: 10vh;
+}
+.recorded{
+    color:red !important;
+}
+.icon{
+  width: 30%;
+}
+.title{
+    min-height: 5vh;
+    text-align:right;
+    margin-right: 10%;
+    width: 80%;
+}
+.displayCenter{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
